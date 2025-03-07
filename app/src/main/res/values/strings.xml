@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="spinner_item">
+        <item>RABAT</item>
+        <item>CASABLANCA</item>
+        <item>MARRAKECH</item>
+        <item>AGADIR</item>
+        <item>ERRACHIDIA</item>
+
+    </string-array>
+</resources>
